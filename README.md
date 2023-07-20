@@ -34,6 +34,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="LINUX" width="40" height="40"/>&nbsp;
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?burshlat=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?burshlat=vn7n24fzkq&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?burshlat=vn7n24fzkq&theme=default)
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
+</div>
