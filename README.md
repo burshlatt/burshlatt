@@ -7,7 +7,7 @@
     <a href="https://t.me/Burshlatt">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="bulat.karimov.19@gmail.com">
+    <a href="mailto:bulat.karimov.19@gmail.com">
         <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="VK"/>
     </a>
     <a href="https://vk.com/burshlatt">
@@ -18,6 +18,6 @@
 ### About me
 
 - 🧔 Bulat Karimov
-- 🖥️ Intern/Junior **C/C++, QT** Developer
+- 🖥️ Intern/Junior **C/C++/Qt** Developer
 - 👨‍🎓 Software Engineering
 - 🌇 Kazan, Russia
