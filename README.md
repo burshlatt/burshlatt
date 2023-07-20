@@ -22,8 +22,8 @@
 - 👨‍🎓 Software Engineering
 - 🌇 Kazan, Russia
 
+### Languages and Tools
 <div id="tools" align="center">
-    ### Languages and Tools
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="QT" width="40" height="40"/>&nbsp;
@@ -34,8 +34,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="LINUX" width="40" height="40"/>&nbsp;
 </div>
 
-<div id="stat" align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?burshlat=vn7n24fzkq&theme=default)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?burshlat=vn7n24fzkq&theme=default)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?burshlat=vn7n24fzkq&theme=default)
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?burshlat=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?burshlat=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?burshlat=vn7n24fzkq&theme=default)
