@@ -3,7 +3,7 @@
     <h3>C++ developer from Kazan</h3>
 </div>
 
-<a href="telegram-url">
+<a href="https://t.me/Burshlatt">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
