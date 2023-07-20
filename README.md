@@ -15,12 +15,12 @@
     </a>
 </div>
 
-<div id="socials" align="center">
+<div id="Me" align="center">
 <h1>About me</h1>
-- 👨 Bulat Karimov, 22 y.o.
-- 🖥️ Intern/Junior **C/C++/Qt** Developer
-- 👨‍🎓 Software Engineering
-- 🌇 Kazan, Russia
+<p>- 👨 Bulat Karimov, 22 y.o.</p>
+<p>- 🖥️ Intern/Junior **C/C++/Qt** Developer</p>
+<p>- 👨‍🎓 Software Engineering</p>
+<p>- 🌇 Kazan, Russia</p>
 </div>
 
 ### Languages and Tools
