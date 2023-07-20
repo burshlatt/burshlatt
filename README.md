@@ -1,4 +1,11 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Hi there, I'm Bulat</h1>
+    <h3>C++ developer from Kazan</h3>
+</div>
+
+<a href="telegram-url">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 <!--
 **burshlatt/burshlatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
