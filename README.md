@@ -7,22 +7,17 @@
     <a href="https://t.me/Burshlatt">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
+    <a href="bulat.karimov.19@gmail.com">
+        <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="VK"/>
+    </a>
     <a href="https://vk.com/burshlatt">
         <img src="https://img.shields.io/badge/VK.com-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
     </a>
 </div>
 
-<!--
-**burshlatt/burshlatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧔 Bulat Karimov
+- 🖥️ Intern/Junior **C/C++, QT** Developer
+- 👨‍🎓 Software Engineering
+- 🌇 Kazan, Russia
