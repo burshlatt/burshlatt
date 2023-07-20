@@ -16,15 +16,15 @@
 </div>
 
 <div id="Me" align="center">
-<h1>About me</h1>
-<p>- 👨 Bulat Karimov, 22 y.o.</p>
-<p>- 🖥️ Intern/Junior **C/C++/Qt** Developer</p>
-<p>- 👨‍🎓 Software Engineering</p>
-<p>- 🌇 Kazan, Russia</p>
+    <h1>About me</h1>
+    <p>👨 Bulat Karimov, 22 y.o.</p>
+    <p>🖥️ Intern/Junior **C/C++/Qt** Developer</p>
+    <p>👨‍🎓 Software Engineering</p>
+    <p>🌇 Kazan, Russia</p>
 </div>
 
-### Languages and Tools
 <div id="tools" align="center">
+    <h1>Languages and Tools</h1>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="QT" width="40" height="40"/>&nbsp;
@@ -35,9 +35,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="LINUX" width="40" height="40"/>&nbsp;
 </div>
 
-### My stat
-
 <div id="stat" align="center">
+    <h1>My stat</h1>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burshlatt&theme=2077" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=burshlatt&theme=2077" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burshlatt&theme=2077" alt=""/>
