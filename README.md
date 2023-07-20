@@ -15,12 +15,13 @@
     </a>
 </div>
 
-### About me
-
+<div id="socials" align="center">
+<h1>About me</h1>
 - 👨 Bulat Karimov, 22 y.o.
 - 🖥️ Intern/Junior **C/C++/Qt** Developer
 - 👨‍🎓 Software Engineering
 - 🌇 Kazan, Russia
+</div>
 
 ### Languages and Tools
 <div id="tools" align="center">
