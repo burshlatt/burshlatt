@@ -6,6 +6,9 @@
 <a href="https://t.me/Burshlatt">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
+<a href="https://vk.com/burshlatt">
+    <img src="https://img.shields.io/badge/VK.com-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+</a>
 
 <!--
 **burshlatt/burshlatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
