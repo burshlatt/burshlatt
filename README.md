@@ -15,6 +15,10 @@
     </a>
 </div>
 
+<div id="gif" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <div id="Me" align="center">
     <h1>About me</h1>
     <p>👨 Bulat Karimov, 22 y.o.</p>
