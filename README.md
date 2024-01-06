@@ -22,8 +22,8 @@
 
 <div id="Me" align="center">
     <h1>About me</h1>
-    <p>👨 Bulat Karimov, 22 y.o.</p>
-    <p>🖥️ Intern/Junior C/C++/Qt Developer</p>
+    <p>👨 Bulat Karimov, 23 y.o.</p>
+    <p>🖥️ C/C++ Developer</p>
     <p>👨‍🎓 Software Engineering</p>
     <p>🌇 Kazan, Russia</p>
 </div>
