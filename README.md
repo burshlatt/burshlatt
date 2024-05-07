@@ -17,10 +17,10 @@
 
 ### 🛠 Technology stack:
 * C/C++/Delphi
+* Qt/STL
 * SQL
-* PostgreSQL
-* Qt
-* Linux
+* PostgreSQL/Firebird
+* Linux/Windows/MacOS
 * Bash
 * Git
 
