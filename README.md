@@ -42,6 +42,7 @@ I have been currently studying at School21 for over a year and a half. I have co
 I successfully completed an internship at NTR (New Telecom Solutions). I plan to continue studying not only Qt and network programming, but also to master new technologies.
 
 I know how to search for information and quickly learn new things.
+
 "A good specialist is not someone who knows a lot, but someone who knows how to seek information." ©Somebody, once upon a time.
 
 ### My stat
