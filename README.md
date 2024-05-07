@@ -1,7 +1,5 @@
-<div id="header" align="left">
-    <h1>Hi there, I'm Bulat</h1>
-    <h3>C++ developer from Kazan</h3>
-</div>
+# Hi there, I'm Bulat
+### C++ developer from Kazan
 
 <div id="socials" align="left">
     <a href="https://vk.com/burshlatt">
@@ -46,8 +44,9 @@ I successfully completed an internship at NTR (New Telecom Solutions). I plan to
 I know how to search for information and quickly learn new things.
 "A good specialist is not someone who knows a lot, but someone who knows how to seek information." ©Somebody, once upon a time.
 
-<div id="stat" align="center">
-    <h1>My stat</h1>
+### My stat
+
+<div id="stat" align="left">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burshlatt&theme=2077" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=burshlatt&theme=2077" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burshlatt&theme=2077" alt=""/>
