@@ -16,7 +16,7 @@
 </div>
 
 ### 🛠 Technology stack:
-1. C++
+1. C/C++/Delphi
 2. SQL
 3. PostgreSQL
 4. Qt
@@ -24,7 +24,7 @@
 6. Bash
 7. Git
 
-<div id="tools" align="center">
+<div id="tools" align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="QT" width="40" height="40"/>&nbsp;
