@@ -14,13 +14,13 @@
 </div>
 
 ### 🛠 Technology stack:
-1. C/C++/Delphi
-2. SQL
-3. PostgreSQL
-4. Qt
-5. Linux
-6. Bash
-7. Git
+* C/C++/Delphi
+* SQL
+* PostgreSQL
+* Qt
+* Linux
+* Bash
+* Git
 
 <div id="tools" align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
