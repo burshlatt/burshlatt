@@ -13,6 +13,8 @@
     </a>
 </div>
 
+---
+
 ### 🛠 Technology stack:
 * C/C++/Delphi
 * SQL
@@ -33,6 +35,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GITHUB" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 ### About me
 
 Hello everyone! My name is Bulat Karimov, i am 23 years old. I am a C++ developer. My path in IT started with a project in Sberbank - School21. I am a beginner developer and specialize in Qt and network programming, in the future I plan to try myself in game development on Unreal Engine.
@@ -45,6 +49,8 @@ I know how to search for information and quickly learn new things.
 
 "A good specialist is not someone who knows a lot, but someone who knows how to seek information." ©Somebody, once upon a time.
 
+---
+
 ### My stat
 
 <div id="stat" align="left">
@@ -52,3 +58,5 @@ I know how to search for information and quickly learn new things.
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=burshlatt&theme=2077" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=burshlatt&theme=2077" alt=""/>
 </div>
+
+---
