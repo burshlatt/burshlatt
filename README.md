@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
     <h1>Hi there, I'm Bulat</h1>
     <h3>C++ developer from Kazan</h3>
 </div>
