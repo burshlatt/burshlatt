@@ -20,13 +20,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
-<div id="Me" align="center">
-    <h1>About me</h1>
-    <p>👨 Bulat Karimov, 23 y.o.</p>
-    <p>🖥️ C/C++ Developer</p>
-    <p>👨‍🎓 Software Engineering</p>
-    <p>🌇 Kazan, Russia</p>
-</div>
+### About me
+
+Hello everyone! My name is Bulat Karimov, i am 23 years old. I am a C++ developer. My path in IT started with a project in Sberbank - School21. I am a beginner developer and specialize in Qt and network programming, in the future I plan to try myself in game development on Unreal Engine.
+
+I have been currently studying at School21 for over a year and a half. I have completed over 20 different projects, most of which have been team projects. In addition to all this, I have a secondary technical education as a software engineer. I am currently pursuing a degree in software engineering.
+
+I successfully completed an internship at NTR (New Telecom Solutions). I plan to continue studying not only Qt and network programming, but also to master new technologies.
+
+I know how to search for information and quickly learn new things.
+"A good specialist is not someone who knows a lot, but someone who knows how to seek information." ©Somebody, once upon a time.
 
 <div id="tools" align="center">
     <h1>Languages and Tools</h1>
