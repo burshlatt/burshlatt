@@ -39,9 +39,9 @@
 
 ### About me
 
-Hello everyone! My name is Bulat Karimov, i am 23 years old. I am a C++ developer. My path in IT started with a project in Sberbank - School21. I am a beginner developer and specialize in Qt and network programming, in the future I plan to try myself in game development on Unreal Engine.
+Hello everyone! My name is Bulat Karimov, i am 23 years old. I am a C++ developer. My path in IT started with a project in Sberbank - School 21. I am a beginner developer and specialize in Qt and network programming, in the future I plan to try myself in game development on Unreal Engine.
 
-I have been currently studying at School21 for over a year and a half. I have completed over 20 different projects, most of which have been team projects. In addition to all this, I have a secondary technical education as a software engineer. I am currently pursuing a degree in software engineering.
+I have been currently studying at School 21 for over a year and a half. I have completed over 20 different projects, most of which have been team projects. In addition to all this, I have a secondary technical education as a software engineer. I am currently pursuing a degree in software engineering.
 
 I successfully completed an internship at NTR (New Telecom Solutions). I plan to continue studying not only Qt and network programming, but also to master new technologies.
 
