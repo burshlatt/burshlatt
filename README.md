@@ -39,15 +39,15 @@
 
 ### About me
 
-Hello everyone! My name is Bulat Karimov, i am 23 years old. I am a C++ developer. My path in IT started with a project in Sberbank - School 21. I am a beginner developer and specialize in Qt and network programming, in the future I plan to try myself in game development on Unreal Engine.
+Hello everyone! My name is Bulat Karimov, and I am 23 years old. I am a C++ developer. My path in IT started with a project at Sberbank - School 21. As a beginner developer, I specialize in Qt and network programming. In the future, I plan to delve into game development using Unreal Engine.
 
-I have been currently studying at School 21 for over a year and a half. I have completed over 20 different projects, most of which have been team projects. In addition to all this, I have a secondary technical education as a software engineer. I am currently pursuing a degree in software engineering.
+I have been studying at School 21 for over a year and a half now. During this time, I have completed over 20 different projects, most of which were team efforts. In addition to this, I hold a secondary technical education as a software engineer and am currently pursuing a degree in the same field.
 
-I successfully completed an internship at NTR (New Telecom Solutions). I plan to continue studying not only Qt and network programming, but also to master new technologies.
+I successfully completed an internship at NTR (New Telecom Solutions). Moving forward, I plan to continue enhancing my skills in Qt and network programming, as well as mastering new technologies.
 
-I know how to search for information and quickly learn new things.
+I am adept at searching for information and quickly learning new concepts.
 
-"A good specialist is not someone who knows a lot, but someone who knows how to seek information." ©Somebody, once upon a time.
+“A good specialist is not someone who knows a lot, but someone who knows how to seek information.” — Somebody, once upon a time.
 
 ---
 
