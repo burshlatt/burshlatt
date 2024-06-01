@@ -38,7 +38,7 @@
 ---
 
 ### Certificates
-- [Track in Telecom](https://drive.google.com/file/d/1LM8iPn0rTlra8R0wOJ8EciaUbaRhNqm1/view?usp=sharing)
+- [Fast Track in Telecom](https://drive.google.com/file/d/1LM8iPn0rTlra8R0wOJ8EciaUbaRhNqm1/view?usp=sharing)
 
 ---
 
