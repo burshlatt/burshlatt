@@ -37,6 +37,11 @@
 
 ---
 
+### Certificates
+- [Fast Track в телеком](https://drive.google.com/file/d/1LM8iPn0rTlra8R0wOJ8EciaUbaRhNqm1/view?usp=sharing)
+
+---
+
 ### About me
 
 Hello everyone! My name is Bulat Karimov, and I am 23 years old. I am a C++ developer. My path in IT started with a project at Sberbank - School 21. As a beginner developer, I specialize in Qt and network programming. In the future, I plan to delve into game development using Unreal Engine.
