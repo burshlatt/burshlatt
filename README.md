@@ -48,7 +48,7 @@ Hello everyone! My name is Bulat Karimov, and I am 23 years old. I am a C++ deve
 
 I have been studying at School 21 for over a year and a half now. During this time, I have completed over 20 different projects, most of which were team efforts. In addition to this, I hold a secondary technical education as a software engineer and am currently pursuing a degree in the same field.
 
-I successfully completed an internship at NTR (New Telecom Solutions). Moving forward, I plan to continue enhancing my skills in Qt and network programming, as well as mastering new technologies.
+I successfully completed the Fast Track in Telecom internship. In the future, I plan to continue improving my skills in Qt and network programming, as well as learning new technologies.
 
 I am adept at searching for information and quickly learning new concepts.
 
