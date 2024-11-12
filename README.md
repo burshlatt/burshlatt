@@ -52,8 +52,6 @@ I successfully completed the Fast Track in Telecom internship. I am currently wo
 
 I am adept at searching for information and quickly learning new concepts.
 
-“A good specialist is not someone who knows a lot, but someone who knows how to seek information.” — Somebody, once upon a time.
-
 ---
 
 ### My stat
