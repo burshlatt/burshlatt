@@ -5,7 +5,7 @@
     <a href="https://vk.com/burshlatt">
         <img src="https://img.shields.io/badge/VK.com-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
     </a>
-    <a href="mailto:bulat.karimov.19@gmail.com">
+    <a href="mailto:burshlatt@gmail.com">
         <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="VK"/>
     </a>
     <a href="https://t.me/Burshlatt">
@@ -38,7 +38,8 @@
 ---
 
 ### Certificates
-- [Fast Track in Telecom](https://drive.google.com/file/d/1LM8iPn0rTlra8R0wOJ8EciaUbaRhNqm1/view?usp=sharing)
+- [School 21](https://drive.google.com/file/d/15M4kwl-z3gjQxG1pSCGfaWNMue2wVJcG/view?usp=sharing)
+- [Fast Track in Telecom](https://drive.google.com/file/d/1QIyhukhVLqsWG-okaPxADB1wBE5QdaTh/view?usp=sharing)
 
 ---
 
