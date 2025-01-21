@@ -38,7 +38,8 @@
 ---
 
 ### Certificates
-- [School 21](https://drive.google.com/file/d/15M4kwl-z3gjQxG1pSCGfaWNMue2wVJcG/view?usp=sharing)
+- [School 21 (ENG)](https://drive.google.com/file/d/15M4kwl-z3gjQxG1pSCGfaWNMue2wVJcG/view?usp=sharing)
+- [School 21 (RUS)](https://drive.google.com/file/d/1_5HePfsfEaaJnCICZa-VvTFFf1XMhueB/view?usp=sharing)
 - [Fast Track in Telecom](https://drive.google.com/file/d/1QIyhukhVLqsWG-okaPxADB1wBE5QdaTh/view?usp=sharing)
 
 ---
