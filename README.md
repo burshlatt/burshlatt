@@ -16,11 +16,9 @@
 ---
 
 ### 🛠 Technology stack:
-* C/C++/Delphi
-* Qt/STL
+* C/C++/Qt
 * SQL
-* PostgreSQL/Firebird
-* Linux/Windows/MacOS
+* Linux
 * Bash
 * Git
 
@@ -32,7 +30,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="LINUX" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GITLAB" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GITHUB" width="40" height="40"/>&nbsp;
 </div>
 
 ---
